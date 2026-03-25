@@ -23,6 +23,6 @@ To meet assignment requirements for a team of four, we implemented and compared 
 
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/[your-username]/[repo-name].git`
+1. Clone the repository: `git clone https://github.com/Eranga999/Ml-Assigment.git`
 2. Open Anaconda Navigator and launch Jupyter Notebook.
 3. Open `Hotel_Resource_Analysis.ipynb` and run all cells.
